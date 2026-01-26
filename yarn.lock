@@ -812,10 +812,10 @@ hasown@^2.0.2:
   dependencies:
     function-bind "^1.1.2"
 
-hexo-bilibili-bangumi@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/hexo-bilibili-bangumi/-/hexo-bilibili-bangumi-2.0.1.tgz#234fc52d264b80d7c30f81c15fa9dbae68e7644e"
-  integrity sha512-vlyQhowuIwBX9Sfv6+W50vDtZW3HEnIIY2Wo6EaHIR5oYnm25ez+LAPN0/S5bJ1pe2730pSqlKe/BalCcHLdqg==
+hexo-bilibili-bangumi@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/hexo-bilibili-bangumi/-/hexo-bilibili-bangumi-2.0.4.tgz#d00c9c698b188b266d7df09b8162d6bb11d3a509"
+  integrity sha512-iba7lpSIiHtPwqwlyC6gAoFYPlj+Sc83GXqSQFuiZX2DDQHFKBhJN5NaTmxXLPToxW3NqtSM7b/qVL5prdsvbg==
   dependencies:
     "@babel/runtime" "^7.18.0"
     axios "^1.0.0"
