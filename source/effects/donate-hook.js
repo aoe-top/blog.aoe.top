@@ -5,8 +5,6 @@ function myDonateHook(code) {
     // 根据不同的输入确定不同的状态
     let url = ``;
 
-    console.log(code);
-
     switch (code) {
         case "example_alipay":
             url =
