@@ -10,10 +10,10 @@
     "bangumi": "hexo bangumi -u"
   },
   "hexo": {
-    "version": "8.1.0"
+    "version": "8.1.1"
   },
   "dependencies": {
-    "hexo": "^8.1.0",
+    "hexo": "8.1.1",
     "hexo-bilibili-bangumi": "^2.0.4",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
