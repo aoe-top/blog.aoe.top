@@ -10,7 +10,7 @@ sticky: 100
 pic:
 comments: true
 toc: true
-expire: true
+
 only:
 - home
 - category
