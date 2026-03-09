@@ -100,7 +100,7 @@ nav:
         - label: "番剧"
           url: "/animation/"
         - label: "投喂小莫"
-          url: "https://aoe.top/donate"
+          url: "https://sponsor.aoe.top/"
         - label: "Mod站"
           url: "https://mod.3dmgame.com/"
         - label: "买下我"
@@ -317,3 +317,4 @@ additional_injections:
         <script src="/effects/cursor-effects.js"></script>
         <script src="/effects/donate-hook.js" defer="true"></script>
     tools: "" # 注入到页面右下角浮动工具栏里的功能按钮（格式请参见文档）
+
