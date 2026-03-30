@@ -10,9 +10,6 @@
         section.innerHTML = [
             '<div class="blog-friendly-links__header">',
             '<h3 class="blog-friendly-links__title">友情链接</h3>',
-            '<p class="blog-friendly-links__subtitle">',
-            '实时同步站群最新友链，让博客页脚继续连向所有项目站点。',
-            '</p>',
             '</div>',
             '<div class="blog-friendly-links__grid">',
             '<div class="blog-friendly-links__state">友链加载中...</div>',

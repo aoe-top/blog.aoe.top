@@ -319,4 +319,3 @@ additional_injections:
         <script src="/effects/donate-hook.js" defer="true"></script>
         <script src="/effects/friendly-links.js" defer="true"></script>
     tools: "" # 注入到页面右下角浮动工具栏里的功能按钮（格式请参见文档）
-
