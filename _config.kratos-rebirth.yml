@@ -310,11 +310,13 @@ additional_injections:
         })();
         </script>
         <link rel="stylesheet" href="/effects/snow.css" />
+        <link rel="stylesheet" href="/effects/friendly-links.css" />
     footer: | # 注入到页面主体的内容，例如额外的可见组件
         <canvas id="snow"></canvas>
     after_footer: | # 注入到页面内容之后的内容，例如各种额外的脚本文件
         <script src="/effects/snow.js"></script>
         <script src="/effects/cursor-effects.js"></script>
         <script src="/effects/donate-hook.js" defer="true"></script>
+        <script src="/effects/friendly-links.js" defer="true"></script>
     tools: "" # 注入到页面右下角浮动工具栏里的功能按钮（格式请参见文档）
 
