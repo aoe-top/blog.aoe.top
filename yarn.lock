@@ -35,12 +35,10 @@
   dependencies:
     "@babel/types" "^7.28.2"
 
-"@babel/runtime@^7.18.0":
-  version "7.24.5"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.24.5.tgz#230946857c053a36ccc66e1dd03b17dd0c4ed02c"
-  integrity sha512-Nms86NXrsaeU9vbBJKni6gXiEXZ4CVpYVzEjDH9Sb8vmZ3UljyA1GSOJl/6LGPO8EHLuSF9H+IxNXHPX8QHJ4g==
-  dependencies:
-    regenerator-runtime "^0.14.0"
+"@babel/runtime@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-8.0.0.tgz#d7bd513e6843662346552c2798ab895716cf97f2"
+  integrity sha512-sL6cvO2IfkSu/iU+zs2S/w01B7A8V7suXSIKEN4hPFFdZoiPGxrj5pAG0lCaqLWiEIrjKzdznIWuaLcxPR53qw==
 
 "@babel/types@^7.28.2", "@babel/types@^7.6.1", "@babel/types@^7.9.6":
   version "7.28.2"
@@ -812,12 +810,12 @@ hasown@^2.0.2:
   dependencies:
     function-bind "^1.1.2"
 
-hexo-bilibili-bangumi@^2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/hexo-bilibili-bangumi/-/hexo-bilibili-bangumi-2.0.4.tgz#d00c9c698b188b266d7df09b8162d6bb11d3a509"
-  integrity sha512-iba7lpSIiHtPwqwlyC6gAoFYPlj+Sc83GXqSQFuiZX2DDQHFKBhJN5NaTmxXLPToxW3NqtSM7b/qVL5prdsvbg==
+hexo-bilibili-bangumi@^2.1.9:
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/hexo-bilibili-bangumi/-/hexo-bilibili-bangumi-2.1.9.tgz#2cc0183a3bdab31eeccb932fff293304d0392c2d"
+  integrity sha512-bHbSFi4dANh+wD7pZkditf8ZhfWR/TAaDQyO8plQMLc9MR7vWKPrAXu/WdFst3iG1SS2J8AzNOoTSm8IqHWc6Q==
   dependencies:
-    "@babel/runtime" "^7.18.0"
+    "@babel/runtime" "^8.0.0"
     axios "^1.0.0"
     bangumi-data "^0.3.91"
     cheerio "^1.0.0-rc.11"
@@ -1759,11 +1757,6 @@ readdirp@~3.6.0:
   integrity sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==
   dependencies:
     picomatch "^2.2.1"
-
-regenerator-runtime@^0.14.0:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.1.tgz#356ade10263f685dda125100cd862c1db895327f"
-  integrity sha512-dYnhHh0nJoMfnkZs6GmmhFknAGRrLznOu5nc9ML+EJxGvrx6H7teuevqVqCuPcPK//3eDrrjQhehXVx9cnkGdw==
 
 resolve@^1.15.1:
   version "1.22.10"
